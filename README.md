@@ -1,2 +1,3 @@
+
 # leap-year-calculator
-patikaDev
+Bu proje patika.Dev ödevidir
